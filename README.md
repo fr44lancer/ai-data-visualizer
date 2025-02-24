@@ -1,2 +1,2 @@
-# ai-data-visualizer
-AI data visualizer
+# 📊 AI Data Visualizer
+
