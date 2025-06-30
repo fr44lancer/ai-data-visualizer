@@ -3,7 +3,7 @@ import utils
 import plotly.express
 
 
-st.title("📊 AutoDataViz")
+st.title("📊 AI Data Visualizer")
 
 
 # API key
